@@ -29,8 +29,9 @@
 ### 📫 Como me encontrar:
 - **Site:** [webgtech.site](https://webgtech.site)
 - **Instagram:** [@webgtech.ofc](https://www.instagram.com/webgtech.ofc/)
-- **LinkedIn:** [Seu nome no LinkedIn](https://www.linkedin.com/in/seu-perfil/) <!-- Adicione seu perfil aqui -->
+- **LinkedIn:** [Geovane Santos](https://www.linkedin.com/in/seu-perfil/) <!-- Adicione seu perfil aqui -->
 
 ---
 
-🎓 Atualmente cursando Bacharelado em Engenharia de Software na Unicesumar, buscando sempre evoluir e aprimorar minhas habilidades na área.
+🎓 Atualmente cursando Bacharelado em Engenharia de Software na Unicesumar,
+buscando sempre evoluir e aprimorar minhas habilidades na área.
